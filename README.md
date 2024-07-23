@@ -1,4 +1,4 @@
-#Activity: Implement a Basic Calculator Microservice
+# Activity: Implement a Basic Calculator Microservice
 Objectives:
 Set up a Node.js environment
 Create a basic Express server
